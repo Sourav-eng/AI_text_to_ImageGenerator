@@ -38,3 +38,7 @@ pip install torch torchvision
 pip install diffusers transformers
 pip install gradio
 
+├── AI_Text_to_ImageGenerator.ipynb
+├── README.md
+
+
