@@ -22,7 +22,10 @@ A simple AI-powered **Text-to-Image Generator** built using the Hugging Face �
 - Torch / Transformers
 
 ---
+## 🎥 Demo
+[Watch the demo](https://github.com/Sourav-eng/Spotify-clone/issues/1#issue-2937343994)
 
+---
 ## 🚀 How to Run
 
 ### 🔧 Prerequisites
