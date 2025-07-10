@@ -23,7 +23,7 @@ A simple AI-powered **Text-to-Image Generator** built using the Hugging Face �
 
 ---
 ## 🎥 Demo
-[Watch the demo](https://github.com/Sourav-eng/Spotify-clone/issues/1#issue-2937343994)
+[Watch the demo]([https://github.com/Sourav-eng/Spotify-clone/issues/1#issue-2937343994](https://drive.google.com/file/d/1YP0sabTfLiX7QNf8PjqCSJag3Vd1BzU_/view?usp=drive_link))
 
 ---
 ## 🚀 How to Run
