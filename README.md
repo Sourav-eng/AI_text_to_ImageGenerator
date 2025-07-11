@@ -25,7 +25,7 @@ Google collab link🥇   https://colab.research.google.com/drive/1WMERKkGSnnoA-D
 
 ---
 ## 🎥 Demo
-[Watch the demo](https://drive.google.com/file/d/1YP0sabTfLiX7QNf8PjqCSJag3Vd1BzU_/view?usp=drive_link)
+[Watch the demo](https://drive.google.com/file/d/1YP0sabTfLiX7QNf8PjqCSJag3Vd1BzU_/view?usp=drivesdk)
 
 ---
 ## 🚀 How to Run
