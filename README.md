@@ -1,7 +1,9 @@
-Google collab link🥇   https://colab.research.google.com/drive/1WMERKkGSnnoA-DlgZKEBNvgztXITAQtd?usp=sharing
+
 # 🧠 AI Text-to-Image Generator
 
 A simple AI-powered **Text-to-Image Generator** built using the Hugging Face 🤗 `diffusers` library and the **Stable Diffusion** model. It features an easy-to-use **Gradio UI** for interactive input and image generation.
+---
+Google collab link🥇   https://colab.research.google.com/drive/1WMERKkGSnnoA-DlgZKEBNvgztXITAQtd?usp=sharing
 
 ---
 
